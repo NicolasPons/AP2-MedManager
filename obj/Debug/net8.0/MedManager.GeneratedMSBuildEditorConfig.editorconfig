@@ -17,119 +17,119 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MedManager
 build_property.RootNamespace = MedManager
-build_property.ProjectDir = C:\Users\ponsn\Documents\Bureau Non Sync\BTS SIO\Atelier de profesionnalisation\AP2-MedManager\
+build_property.ProjectDir = C:\Users\ponsn\Documents\Bureau Non Sync\BTS SIO\Dév\Ateliers de professionnalisation\AP2\AP2-MedManager\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ponsn\Documents\Bureau Non Sync\BTS SIO\Atelier de profesionnalisation\AP2-MedManager
+build_property.MSBuildProjectDirectory = C:\Users\ponsn\Documents\Bureau Non Sync\BTS SIO\Dév\Ateliers de professionnalisation\AP2\AP2-MedManager
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Accueil/Index.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Accueil/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjdWVpbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Compte/Connexion.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Compte/Connexion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHRlXENvbm5leGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Compte/Inscription.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Compte/Inscription.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHRlXEluc2NyaXB0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/ContreIndications/Action.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/ContreIndications/Action.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJlSW5kaWNhdGlvbnNcQWN0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/ContreIndications/Detail.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/ContreIndications/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJlSW5kaWNhdGlvbnNcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/ContreIndications/Index.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/ContreIndications/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJlSW5kaWNhdGlvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Medicament/Ajouter.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Medicament/Ajouter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudFxBam91dGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Medicament/Detail.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Medicament/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Medicament/Index.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Medicament/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Medicament/Modifier.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Medicament/Modifier.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudFxNb2RpZmllci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Ordonnance/Action.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Ordonnance/Action.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3Jkb25uYW5jZVxBY3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Ordonnance/Detail.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Ordonnance/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3Jkb25uYW5jZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Ordonnance/Index.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Ordonnance/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3Jkb25uYW5jZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Ordonnance/SelectionPatient.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Ordonnance/SelectionPatient.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3Jkb25uYW5jZVxTZWxlY3Rpb25QYXRpZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Parametres/Index.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Parametres/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyYW1ldHJlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Patient/Ajouter.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Patient/Ajouter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxBam91dGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Patient/Detail.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Patient/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Patient/Editer.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Patient/Editer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxFZGl0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Patient/Index.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Patient/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Shared/Error.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Support/Contact.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Support/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcG9ydFxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Support/FAQ.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Support/FAQ.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcG9ydFxGQVEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Tableaudebord/Index.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Tableaudebord/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVhdWRlYm9yZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/_ViewImports.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/_ViewStart.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Atelier de profesionnalisation/AP2-MedManager/Views/Shared/_Layout.cshtml]
+[C:/Users/ponsn/Documents/Bureau Non Sync/BTS SIO/Dév/Ateliers de professionnalisation/AP2/AP2-MedManager/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-v1gs8fu11b

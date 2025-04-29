@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\MedManager.csproj": {}
+    "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\MedManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\MedManager.csproj": {
+    "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\MedManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\MedManager.csproj",
+        "projectUniqueName": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\MedManager.csproj",
         "projectName": "MedManager",
-        "projectPath": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\MedManager.csproj",
+        "projectPath": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\MedManager.csproj",
         "packagesPath": "C:\\Users\\ponsn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\obj\\",
+        "outputPath": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,12 +112,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[8.0.8, 8.0.8]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -127,11 +121,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }

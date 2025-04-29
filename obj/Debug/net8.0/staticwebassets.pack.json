@@ -1,343 +1,343 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MedManager.bundle.scp.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MedManager.bundle.scp.css",
       "PackagePath": "staticwebassets\\MedManager.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\Images\\CreationOrdonnance.png",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\Images\\CreationOrdonnance.png",
       "PackagePath": "staticwebassets\\Images\\CreationOrdonnance.png"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\Images\\Dashboard.png",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\Images\\Dashboard.png",
       "PackagePath": "staticwebassets\\Images\\Dashboard.png"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\Images\\Patients.png",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\Images\\Patients.png",
       "PackagePath": "staticwebassets\\Images\\Patients.png"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\Images\\PdfOrdo.png",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\Images\\PdfOrdo.png",
       "PackagePath": "staticwebassets\\Images\\PdfOrdo.png"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\Images\\PhotoDefaut-200.png",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\Images\\PhotoDefaut-200.png",
       "PackagePath": "staticwebassets\\Images\\PhotoDefaut-200.png"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\Images\\PhotoDefaut-300.png",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\Images\\PhotoDefaut-300.png",
       "PackagePath": "staticwebassets\\Images\\PhotoDefaut-300.png"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\Images\\gsbtransparent.png",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\Images\\gsbtransparent.png",
       "PackagePath": "staticwebassets\\Images\\gsbtransparent.png"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Dark Vador_3.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Dark Vador_3.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Dark Vador_3.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Hache  Marie_2.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Hache  Marie_2.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Hache  Marie_2.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Hache  Marie_5.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Hache  Marie_5.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Hache  Marie_5.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Hache Marie_2.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Hache Marie_2.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Hache Marie_2.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Harry Potter_6.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Harry Potter_6.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Harry Potter_6.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Karim Benzema_14.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Karim Benzema_14.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Karim Benzema_14.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Karim Benzema_15.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Karim Benzema_15.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Karim Benzema_15.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Karim Benzema_2.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Karim Benzema_2.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Karim Benzema_2.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Marcel Pagnol_1.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Marcel Pagnol_1.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Marcel Pagnol_1.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Marcel Pagnol_15.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Marcel Pagnol_15.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Marcel Pagnol_15.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Marcel Pagnol_2.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Marcel Pagnol_2.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Marcel Pagnol_2.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Marie Antoinette_12.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Marie Antoinette_12.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Marie Antoinette_12.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Pagnol Marcel_1.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Pagnol Marcel_1.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Pagnol Marcel_1.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Pons Nico_1.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Pons Nico_1.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Pons Nico_1.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Simon Veil_8.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Simon Veil_8.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Simon Veil_8.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Tom Select_10.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Tom Select_10.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Tom Select_10.pdf"
     },
     {
-      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Atelier de profesionnalisation\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Tom Select_13.pdf",
+      "Id": "C:\\Users\\ponsn\\Documents\\Bureau Non Sync\\BTS SIO\\Dév\\Ateliers de professionnalisation\\AP2\\AP2-MedManager\\wwwroot\\pdfs\\Ordonnance_Tom Select_13.pdf",
       "PackagePath": "staticwebassets\\pdfs\\Ordonnance_Tom Select_13.pdf"
     },
     {

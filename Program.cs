@@ -4,14 +4,15 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
+using Serilog.Sinks.File;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 Log.Logger = new LoggerConfiguration()
 	.ReadFrom.Configuration(new ConfigurationBuilder()
-		.AddJsonFile("appsettings.json")
-		.Build())
+	.AddJsonFile("appsettings.json")
+	.Build())
 	.CreateLogger();
 
 builder.Services.AddControllersWithViews();
