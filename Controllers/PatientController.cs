@@ -162,7 +162,7 @@ namespace MedManager.Controllers
                     else 
                     {
 
-						var defaultPhotoPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", "PhotoDefaut-200.png");
+						var defaultPhotoPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images", "PhotoDefaut-200.png");
 						patient.Photo = await System.IO.File.ReadAllBytesAsync(defaultPhotoPath);
 					}
 
