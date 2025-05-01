@@ -9,16 +9,6 @@
     <div class="d-flex justify-content-between mb-3">
         <a asp-action="SelectionPatient" asp-controller="Ordonnance"
            class="btn btn-outline-primary"> <i class="bi bi-plus-circle me-2"></i> Nouvelle ordonnance</a>
-
-        <form asp-action="Index" method="get" class="d-flex mb-0">
-            <div class="input-group">
-                <input type="text" name="Filtre" class="form-control" placeholder="Rechercher par nom ou prénom" value="@ViewData["FiltreActuel"]" style="min-width: 350px;" />
-                <button class="btn btn-outline-primary" type="submit"><i class="bi bi-search"></i></button>
-            </div>
-        </form>
-        <a href="@Url.Action("Index")" class="btn btn-outline-primary">
-            <i class="bi bi-arrow-counterclockwise"></i> Réinitialiser
-        </a>
     </div>
 
 

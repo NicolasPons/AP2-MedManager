@@ -14,24 +14,6 @@
 			<i class="bi bi-plus-circle"></i> Ajouter une allergie
 		</a>
 	</div>
-
-	<div class="col-md-6 d-flex justify-content-between">
-		<form asp-action="Index" method="get" class="d-flex mb-0 w-100">
-			<div class="input-group">
-				<input type="text" name="filtreAllergies" class="form-control" placeholder="Rechercher une allergie" value="@ViewData["FiltreActuelAllergie"]" style="min-width: 300px;" />
-				<input type="hidden" name="OrdreTriAllergie" value="@ViewData["TriActuelAllergie"]" />
-				<input type="hidden" name="OrdreTriAntecedent" value="@ViewData["TriActuelAntecedent"]" />
-				<input type="hidden" name="filtreAntecedents" value="@ViewData["FiltreActuelAntecedent"]" />
-				<button class="btn btn-outline-primary" type="submit"><i class="bi bi-search"></i></button>
-			</div>
-		</form>
-	</div>
-
-	<div class="col-md-3 text-end">
-		<a href="@Url.Action("Index")" class="btn btn-outline-primary">
-			<i class="bi bi-arrow-counterclockwise"></i> Réinitialiser
-		</a>
-	</div>
 </div>
 
 
@@ -41,22 +23,9 @@
 	<table class="table table-bordered table-hover align-middle text-center table-sm">
 		<thead class="table-primary">
 			<tr>
-				<th style="width: 25%;">
-					<a class="text-dark" asp-action="Index" 
-					asp-route-OrdreTriAntecedent="@ViewData["TriActuelAntecedent"]" 
-					asp-route-filtreAntecedents="@ViewData["FiltreActuelAntecedent"]" 
-					asp-route-OrdreTriAllergie="@ViewData["NomAllergieParamTri"]" 
-					asp-route-filtreAllergies="@ViewData["FiltreActuelAllergie"]">
-						Nom
-						@if ((ViewData["TriActuelAllergie"]?.ToString() ?? "") == "nomAllergie_desc")
-						{
-							<i class="bi bi-arrow-down-short"></i>
-						}
-						else if ((ViewData["TriActuelAllergie"]?.ToString() ?? "") == "")
-						{
-							<i class="bi bi-arrow-up-short"></i>
-						}
-					</a>
+				<th class="text-center" style="width: 25%;">
+					Nom
+
 				</th>
 				<th class="text-center" style="width: 15%;">Actions</th>
 			</tr>
@@ -132,7 +101,7 @@ else
 		</a>
 	</div>
 
-	<div class="col-md-6 d-flex justify-content-between">
+	@* <div class="col-md-6 d-flex justify-content-between">
 		<form asp-action="Index" method="get" class="d-flex mb-0 w-100">
 			<div class="input-group">
 				<input type="text" name="filtreAntecedents" class="form-control" placeholder="Rechercher un antécédent" value="@ViewData["FiltreActuelAntecedent"]" style="min-width: 300px;" />
@@ -148,7 +117,7 @@ else
 		<a href="@Url.Action("Index")" class="btn btn-outline-primary">
 			<i class="bi bi-arrow-counterclockwise"></i> Réinitialiser
 		</a>
-	</div>
+	</div> *@
 </div>
 
 @if (Model.Antecedents != null && Model.Antecedents.Any())
@@ -156,8 +125,9 @@ else
 	<table class="table table-bordered table-hover align-middle text-center table-sm">
 		<thead class="table-primary">
 			<tr>
-				<th style="width: 25%;">
-					<a class="text-dark" asp-action="Index"  asp-route-OrdreTriAntecedent="@ViewData["NomAntecedentParamTri"]" 
+				<th class ="text-center" style="width: 25%;">
+					Nom
+@* 					<a class="text-dark" asp-action="Index"  asp-route-OrdreTriAntecedent="@ViewData["NomAntecedentParamTri"]" 
 					asp-route-filtreAntecedents="@ViewData["FiltreActuelAntecedent"]"
 					   asp-route-OrdreTriAllergie="@ViewData["TriActuelAllergie"]"
 					   asp-route-filtreAllergies="@ViewData["FiltreActuelAllergie"]">
@@ -171,7 +141,7 @@ else
 						{
 							<i class="bi bi-arrow-up-short"></i>
 						}
-					</a>
+					</a> *@
 				</th>
 				<th class="text-center" style="width: 15%;">Actions</th>
 			</tr>

@@ -20,53 +20,13 @@ namespace MedManager.Controllers
             _logger = logger;
         }
 
-        public async Task<IActionResult> Index(string filtreAllergies, string filtreAntecedents, string OrdreTriAllergie, string OrdreTriAntecedent)
+        public async Task<IActionResult> Index()
         {
             try
             {
                 List<Allergie> allergies = await _dbContext.Allergies.ToListAsync();
                 List<Antecedent> antecedents = await _dbContext.Antecedents.ToListAsync();
-
-                OrdreTriAllergie ??= "";
-                OrdreTriAntecedent ??= "";
-                ViewData["NomAllergieParamTri"] = string.IsNullOrEmpty(OrdreTriAllergie) ? "nomAllergie_desc" : "";
-                ViewData["NomAntecedentParamTri"] = string.IsNullOrEmpty(OrdreTriAntecedent) ? "nomAntecedent_desc" : "";
-
-                if (!string.IsNullOrEmpty(filtreAllergies))
-                {
-                    allergies = allergies.Where(a => a.Nom.ToUpper().Contains(filtreAllergies.ToUpper())).ToList();
-                }
-
-                if (!string.IsNullOrEmpty(filtreAntecedents))
-                {
-                    antecedents = antecedents.Where(a => a.Nom.ToUpper().Contains(filtreAntecedents.ToUpper())).ToList();
-                }
-
-                switch (OrdreTriAllergie)
-                {
-                    case "nomAllergie_desc":
-                        allergies = allergies.OrderByDescending(a => a.Nom).ToList();
-                        break;
-                    default:
-                        allergies = allergies.OrderBy(a => a.Nom).ToList();
-                        break;
-                }
-
-                switch (OrdreTriAntecedent)
-                {
-                    case "nomAntecedent_desc":
-                        antecedents = antecedents.OrderByDescending(a => a.Nom).ToList();
-                        break;
-                    default:
-                        antecedents = antecedents.OrderBy(a => a.Nom).ToList();
-                        break;
-                }
-
                 var modele = (Allergies: allergies, Antecedents: antecedents);
-                ViewData["TriActuelAllergie"] = OrdreTriAllergie;
-                ViewData["TriActuelAntecedent"] = OrdreTriAntecedent;
-                ViewData["FiltreActuelAllergie"] = filtreAllergies;
-                ViewData["FiltreActuelAntecedent"] = filtreAntecedents;
 
                 return View(modele);
             }

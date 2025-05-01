@@ -102,20 +102,14 @@ namespace MedManager.Controllers
 			};
 		}
 
-		public async Task<IActionResult> Index(int? page, string filtre)
+		public async Task<IActionResult> Index(int? page)
 		{
 			try
 			{
 				var medecin = await ObtenirMedecin();
 				var ordonnances = medecin.Ordonnances.AsQueryable();
 
-				if (!string.IsNullOrEmpty(filtre))
-				{
-					ordonnances = ordonnances.Where(p =>
-						(p.Patient != null && p.Patient.Nom != null && p.Patient.Nom.Contains(filtre, StringComparison.OrdinalIgnoreCase)) ||
-						(p.Patient != null && p.Patient.Prenom != null && p.Patient.Prenom.Contains(filtre, StringComparison.OrdinalIgnoreCase))
-					);
-				}
+
 
 				int TaillePage = 9;
 				int NombrePage = (page ?? 1);
@@ -126,8 +120,6 @@ namespace MedManager.Controllers
 					medecin = medecin,
 					Ordonnances = ListePageeDesOrdonnances
 				};
-
-				ViewData["FiltreActuel"] = filtre;
 				return View(viewModel);
 			}
 			catch (Exception ex)
