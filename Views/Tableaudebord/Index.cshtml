@@ -57,6 +57,28 @@
 			</div>
 		</div>
 
+			<div class="row g-3 mb-4">
+		<div class="col-md-6">
+			<div class="card border-0 shadow-sm">
+				<div class="card-body">
+					<h6 class="card-title mb-3 text-center">Répartition IMC des patients</h6>
+					@if (Model.RepartitionIMCs.Any())
+
+					{
+						<div style="height: 200px">
+							<canvas id="imcChart"></canvas>
+						</div>
+					}
+
+					else
+
+					{
+						<p class="text-muted">Aucune donnée sur les âges pour le moment.</p>
+					}
+				</div>
+			</div>
+		</div>
+
 		<div class="col-md-6">
 			<div class="card border-0 shadow-sm">
 				<div class="card-body">
@@ -66,6 +88,27 @@
 					{
 						<div style="height: 200px">
 							<canvas id="medicamentChart"></canvas>
+						</div>
+					}
+
+					else
+
+					{
+						<p class="text-muted">Aucune donnée sur les médicaments pour le moment.</p>
+					}
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-6">
+			<div class="card border-0 shadow-sm">
+				<div class="card-body">
+					<h6 class="card-title mb-3  text-center">Top 5 médecins avec le plus de patients</h6>
+					@if (Model.Top5Medecins.Any())
+
+					{
+						<div style="height: 200px">
+							<canvas id="top5medecinChart"></canvas>
 						</div>
 					}
 
@@ -394,6 +437,32 @@
 				}
 			});
 
+						new Chart(document.getElementById('imcChart'), {
+				type: 'bar',
+				data: {
+					labels: @Json.Serialize(Model.RepartitionIMCs.Select(x => x.Categorie)),
+					datasets: [{
+						data: @Json.Serialize(Model.RepartitionIMCs.Select(x => x.Compte)),
+						backgroundColor: colors
+					}]
+				},
+				options: {
+					...commonOptions,
+					plugins: {
+						...commonOptions.plugins,
+						legend: {
+							display: false
+						},
+						datalabels: {
+							formatter: (value) => value,
+							anchor: 'end',
+							align: 'bottom'
+						}
+					}
+				}
+			});
+
+
 			const donutOptions = {
 				...commonOptions,
 				cutout: '60%'
@@ -405,6 +474,18 @@
 					labels: @Json.Serialize(Model.MedicamentPlusUtilises.Select(x => x.Nom)),
 					datasets: [{
 						data: @Json.Serialize(Model.MedicamentPlusUtilises.Select(x => x.UtilisationCount)),
+						backgroundColor: colors
+					}]
+				},
+				options: donutOptions
+			});
+
+							new Chart(document.getElementById('top5medecinChart'), {
+				type: 'doughnut',
+				data: {
+					labels: @Json.Serialize(Model.Top5Medecins.Select(x => x.Nom)),
+					datasets: [{
+						data: @Json.Serialize(Model.Top5Medecins.Select(x => x.Compte)),
 						backgroundColor: colors
 					}]
 				},

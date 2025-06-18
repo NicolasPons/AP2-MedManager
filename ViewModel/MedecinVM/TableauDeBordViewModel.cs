@@ -14,5 +14,8 @@ namespace MedManager.ViewModel.MedecinVM
         public int TotalOrdonnance { get; set; }
 
         public List<Ordonnance>? OrdonnanceEnCours { get; set; }
-	}
+        public List<RepartitionIMC>? RepartitionIMCs { get; set; }
+        
+        public List<MedecinsPlusDePatients>? Top5Medecins { get; set;  }
+    }
 }

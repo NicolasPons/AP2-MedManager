@@ -39,6 +39,8 @@ public class TableaudebordController : Controller
             var TotalPatient = await ObtenirNombrePatient();
             var TotalOrdo = await ObtenirNombreOrdonnance();
             var OrdoEnCours = await ObtenirOrdonnanceEncours();
+			var repartitionIMC = await ObtenirRepartitionIMC();
+			var top5Medecins = await OtenirTop5Medecins();
 
             var model = new TableauDeBordViewModel
             {
@@ -50,8 +52,10 @@ public class TableaudebordController : Controller
                 CinqDerniersPatient = CinqDerniersPatient,
                 TotalOrdonnance = TotalOrdo,
                 TotalPatient = TotalPatient,
-                OrdonnanceEnCours = OrdoEnCours
-            };
+                OrdonnanceEnCours = OrdoEnCours,
+                RepartitionIMCs = repartitionIMC,
+				Top5Medecins = top5Medecins
+			};
 
             return View(model);
         }
@@ -267,4 +271,63 @@ public class TableaudebordController : Controller
 		}
 		return new List<Ordonnance>();
 	}
+
+    private async Task<List<RepartitionIMC>> ObtenirRepartitionIMC()
+    {
+        var id = await ObtenirIdMedecin();
+        if (id != null)
+        {
+            var patients = await _dbContext.Patients
+                            .Where(p => p.MedecinID == id && p.Taille != null && p.Poids != null)
+                            .ToListAsync();
+
+            var repartition = patients
+                .GroupBy(p =>
+                {
+                    float tailleEnMetres = p.Taille.Value / 100f;
+                    float imc = p.Poids.Value / (tailleEnMetres * tailleEnMetres);
+
+                    return imc < 18.5 ? "Maigreur" :
+                           imc < 25 ? "Corpulence normale" :
+                           imc < 30 ? "Surpoids" :
+                           imc < 35 ? "Obésité modérée" :
+                           imc < 40 ? "Obésité sévère" :
+                           "Obésité morbide";
+                })
+                .Select(g => new RepartitionIMC
+                {
+                    Categorie = g.Key,
+                    Compte = g.Count()
+                })
+                .ToList();
+
+            return repartition;
+        }
+        return new List<RepartitionIMC>();
+    }
+
+	private async Task<List<MedecinsPlusDePatients>> OtenirTop5Medecins()
+	{
+		var id = await ObtenirIdMedecin();
+		if (id != null)
+		{
+			var top5Medecins = await _dbContext.Users
+				.Include(m => m.Patients) 
+				.Select(m => new MedecinsPlusDePatients
+				{
+					Nom = m.Nom + " " + m.Prenom,
+					Compte = m.Patients.Count 
+				})
+				.OrderByDescending(m => m.Compte) 
+				.Take(5) 
+				.ToListAsync();
+
+			return top5Medecins;
+		}
+		return new List<MedecinsPlusDePatients>();
+	}
+
+
 }
+
+
